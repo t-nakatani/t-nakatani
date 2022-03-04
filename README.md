@@ -15,6 +15,7 @@
 * pytorch
 * tkinter
 <img width="726" alt="img2arr" src="https://user-images.githubusercontent.com/51512765/156853383-31f0c46c-6b6b-4cc8-a818-7a1280662b50.png">
+<!--　<img width="960" alt="system_flow" src="https://user-images.githubusercontent.com/51512765/156854737-611f29b0-29df-4bd7-982f-c44be65d36dc.png"> -->
 
 ## plant-root
 アルバイト業務で根の成長を画像から解析しました．
