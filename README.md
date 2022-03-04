@@ -22,6 +22,7 @@
 根の成長を画像から解析しました．
 
 主な使用技術
+* 射影変換
 * セグメンテーション(UNet: [github](https://github.com/Abe404/segmentation_of_roots_in_soil_with_unet))
 ![170-P-2_211129](https://user-images.githubusercontent.com/51512765/156854175-b6efd25f-1b30-4a1f-8c85-fd6d5680fe88.png)
 
