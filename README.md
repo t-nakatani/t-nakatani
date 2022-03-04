@@ -2,6 +2,12 @@
 
 ## plant-petal
 花画像から花弁の配置を調べる研究を行っています．  
+
+主な使用技術
+* 物体検出([yolov5](https://github.com/ultralytics/yolov5))
+* 前景抽出(grabcut)
+* メタ学習([maml](https://github.com/dragen1860/MAML-Pytorch))
+
 主な使用ライブラリ
 * cv2
 * numpy
