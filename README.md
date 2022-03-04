@@ -2,7 +2,7 @@
 
 ## plant-petal
 花画像から花弁の配置を調べる研究を行っています．
-<img width="702" alt="img2arr" src="https://user-images.githubusercontent.com/51512765/156853217-d03d6744-2bb2-4b4e-b484-63b8f5ad5776.png">
+<img width="726" alt="img2arr" src="https://user-images.githubusercontent.com/51512765/156853383-31f0c46c-6b6b-4cc8-a818-7a1280662b50.png">
 
 ## plant-root
 アルバイト業務で根の成長を撮影した画像を解析しました．
