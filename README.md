@@ -17,8 +17,8 @@
 <img width="726" alt="img2arr" src="https://user-images.githubusercontent.com/51512765/156853383-31f0c46c-6b6b-4cc8-a818-7a1280662b50.png">
 
 ## plant-root
-アルバイト業務で根の成長を撮影した画像を解析しました．
-
+アルバイト業務で根の成長を画像から解析しました．
+![170-P-2_211129](https://user-images.githubusercontent.com/51512765/156854175-b6efd25f-1b30-4a1f-8c85-fd6d5680fe88.png)
 <!--
 **t-nakatani/t-nakatani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
