@@ -19,7 +19,7 @@
 <!--　<img width="726" alt="img2arr" src="https://user-images.githubusercontent.com/51512765/156853383-31f0c46c-6b6b-4cc8-a818-7a1280662b50.png"> -->
 
 ## plant-root
-アルバイト業務で根の成長を画像から解析しました．
+根の成長を画像から解析しました．
 
 主な使用技術
 * セグメンテーション(UNet: [github](https://github.com/Abe404/segmentation_of_roots_in_soil_with_unet))
