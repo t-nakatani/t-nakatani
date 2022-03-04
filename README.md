@@ -2,6 +2,12 @@
 
 ## plant-petal
 花画像から花弁の配置を調べる研究を行っています．
+主な使用ライブラリ
+* cv2
+* numpy
+* pandas
+* pytorch
+* tkinter
 <img width="726" alt="img2arr" src="https://user-images.githubusercontent.com/51512765/156853383-31f0c46c-6b6b-4cc8-a818-7a1280662b50.png">
 
 ## plant-root
