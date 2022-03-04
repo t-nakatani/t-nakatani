@@ -1,4 +1,11 @@
-### Hi there 👋
+# 今までの取り組み
+
+## plant-petal
+花画像から花弁の配置を調べる研究を行っています．
+
+
+## plant-root
+アルバイト業務で根の成長を撮影した画像を解析しました．
 
 <!--
 **t-nakatani/t-nakatani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
