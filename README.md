@@ -30,6 +30,7 @@
 * numpy 
 * pytorch
 * scikit-image
+
 ![170-P-2_211129](https://user-images.githubusercontent.com/51512765/156854175-b6efd25f-1b30-4a1f-8c85-fd6d5680fe88.png)
 
 <!--
