@@ -1,6 +1,6 @@
 # 今までの取り組み
 
-## plant-petal
+## plant-petal(使用言語Python)
 花画像から花弁の配置を調べる研究を行っています．  
 
 主な使用技術
@@ -21,7 +21,7 @@
 <br />
 <br />
 
-## plant-root
+## plant-root(使用言語Python)
 根の成長を画像から解析しました．
 
 主な使用技術
