@@ -1,7 +1,7 @@
-# 今までの取り組み(最終更新: 2022/12/9)
+# 今までの取り組み(コンテンツ最終更新: 2022/12/9)
 
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=t-nakatani&count_private=true&show_icons=true)
+![GitHub Stats Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=t-nakatani&count_private=true&show_icons=true)
 
 <br>
 
