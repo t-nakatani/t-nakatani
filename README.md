@@ -1,7 +1,8 @@
-# README (Last Content Update: 2023/7/25)
-
-![GitHub Stats Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=t-nakatani&count_private=true&show_icons=true)
-
+# README (Last Content Update: 2023/8/2)
+<p align="left"> 
+  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-nakatani&layout=compact&show_icons=true&theme=prussian" />&nbsp;&nbsp;
+  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=t-nakatani&show_icons=true&theme=prussian" />
+</p>
 <br>
 
 ## plant-petal (Python/Django)
