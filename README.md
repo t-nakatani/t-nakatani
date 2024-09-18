@@ -1,7 +1,6 @@
 # README (Last Content Update: 2023/8/2)
 <p align="left"> 
-  <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-nakatani&layout=compact&show_icons=true&theme=prussian" />&nbsp;&nbsp;
-  <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=t-nakatani&show_icons=true&theme=prussian" />
+  <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-nakatani&layout=donut&theme=prussian" />&nbsp;&nbsp;
 </p>
 <br>
 
